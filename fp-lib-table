@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name TerminalBlock_TE)(type KiCad)(uri "$(KIPRJMOD)/lib_fp/TerminalBlock_TE.pretty")(options "")(descr ""))
+  (lib (name LM2596_DCDC_Module)(type KiCad)(uri "$(KIPRJMOD)/lib_fp/LM2596_DCDC_Module.pretty")(options "")(descr ""))
+)
